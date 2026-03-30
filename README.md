@@ -20,7 +20,6 @@ Final Score=min(category)×0.6+weighted avg×0.4
 
 Instructions:
 Crisis Integrity / Moral Response
-Score range: 0–100
 Final category score = (min(sub1, sub2, sub3, sub4) × 0.6) + (0.3×sub1 + 0.25×sub2 + 0.3×sub3 + 0.15×sub4) × 0.4Sub-scores (0–100 each):
 
 Historical Pattern (weight 0.30)
