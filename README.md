@@ -1,7 +1,23 @@
 # NeoOntology
 #NeoOntology:Minimum-Floor Hybrid Scoring Framework for AI Agents Evaluating Crypto Network Risk
-https://medium.com/@NeoOntology/neoontology-minimum-floor-hybrid-scoring-framework-for-ai-agents-evaluating-crypto-networks-442416e5ab01
-Testing Crisis Integrity / Moral Response
+Score range: 0–100
+The weakest link principle protects AI agents from hidden risks like scam-level founders, repeated bridge failures, or poor decentralization.
+This weakest link principle ensures that no single catastrophic flaw — such as shady founder history, bridge exploits, or centralized infrastructure — can be averaged away.
+
+Categories:
+
+20% Crisis Integrity/Moral Response
+15% Bridges/#Crosschain Security
+15% #Onchain Activity
+15% #Tokenomics/Fairness
+15% Transparency/Governance
+10% Infrastructure/#Decentralization
+5% Regulatory/Legal/Reputation
+5% Developer Switch Patterns
+
+Final Score=min(category)×0.6+weighted avg×0.4
+<66 Borderline
+
 Instructions:
 Crisis Integrity / Moral Response
 Score range: 0–100
@@ -51,3 +67,5 @@ sub3: score | justification
 sub4: score | justification
 category_score: final calculated value
 weakest_link: the lowest sub-score + brief reason
+
+https://medium.com/@NeoOntology/neoontology-minimum-floor-hybrid-scoring-framework-for-ai-agents-evaluating-crypto-networks-442416e5ab01
